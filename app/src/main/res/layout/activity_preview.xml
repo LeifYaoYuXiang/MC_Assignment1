@@ -69,27 +69,6 @@
             android:textStyle="bold" />
     </ScrollView>
 
-    <!--<TextView-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="BCC Information:"-->
-        <!--android:textSize="15sp"-->
-        <!--android:textStyle="italic"-->
-        <!--android:layout_marginTop="10dp"/>-->
-
-    <!--<ScrollView-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:background="@drawable/bg_edittext">-->
-        <!--<TextView-->
-            <!--android:id="@+id/pre_bccInformation"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="20dp"-->
-            <!--android:textSize="15sp"-->
-            <!--android:textStyle="bold"/>-->
-    <!--</ScrollView>-->
-
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

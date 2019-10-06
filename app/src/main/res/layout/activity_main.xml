@@ -63,6 +63,7 @@
                 android:layout_height="40dp"
                 android:hint=" From Who?"
                 android:layout_marginTop="10dp"
+
                 android:background="@drawable/bg_edittext"/>
 
             <EditText
@@ -71,6 +72,7 @@
                 android:layout_height="40dp"
                 android:layout_marginTop="10dp"
                 android:hint=" To who?"
+
                 android:background="@drawable/bg_edittext"/>
 
             <EditText
